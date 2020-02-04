@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InicioReto</string>
+    <string name="correo"><a href="https://www.gmail.com/">AIRTRUKVERDE@GMAIL.COM</a></string>
+    <string name="title_activity_mapa_empresa">Map</string>
+</resources>

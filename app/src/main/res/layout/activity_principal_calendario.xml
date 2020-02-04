@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context="com.example.inicioreto.PrincipalCalendario"
+    android:background="#5100BCD4">
+
+    <ImageView
+        android:id="@+id/imagen"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo" />
+
+    <CalendarView
+        android:id="@+id/calendario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imagen"
+        android:background="#F8F4F4"/>
+
+    <Button
+        android:id="@+id/verEventos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Todos los eventos"
+        android:layout_below="@id/calendario"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+
+
+</RelativeLayout>

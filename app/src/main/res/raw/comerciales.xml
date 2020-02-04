@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<LuisRetoBBDDDataSet xmlns="http://tempuri.org/LuisRetoBBDDDataSet.xsd">
+  <COMERCIAL>
+    <CodComercial>1</CodComercial>
+    <Nombre>Pablo</Nombre>
+    <Apellidos>Arriaga Bendito</Apellidos>
+    <Telefono>697593155</Telefono>
+    <Email>paabloarriaga@gmail.com</Email>
+  </COMERCIAL>
+  <COMERCIAL>
+    <CodComercial>2</CodComercial>
+    <Nombre>Adrian</Nombre>
+    <Apellidos>Riveiro Novoa</Apellidos>
+    <Telefono>649543138</Telefono>
+    <Email>00ariveiro@gmail.com</Email>
+  </COMERCIAL>
+  <COMERCIAL>
+    <CodComercial>3</CodComercial>
+    <Nombre>Lander</Nombre>
+    <Apellidos>Ucin Iribar</Apellidos>
+    <Telefono>677340109</Telefono>
+    <Email>landerux@gmail.com</Email>
+  </COMERCIAL>
+  <COMERCIAL>
+    <CodComercial>4</CodComercial>
+    <Nombre>Elizabeth</Nombre>
+    <Apellidos>Castro Najarro</Apellidos>
+    <Telefono>615235623</Telefono>
+    <Email>elizabeth17055@gmail.coms</Email>
+  </COMERCIAL>
+
+</LuisRetoBBDDDataSet>

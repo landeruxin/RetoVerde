@@ -1,0 +1,82 @@
+<datos>
+    <albaran>
+
+        <NombreAlbaran>ALB/111</NombreAlbaran>
+
+        <FechaAlbaran>19/11/2018</FechaAlbaran>
+
+        <FechaEnvio>22/11/2018</FechaEnvio>
+
+        <FechaEntrega>25/11/2018</FechaEntrega>
+
+        <CodTransportista>5</CodTransportista>
+
+        <CodCliente>4</CodCliente>
+
+        <CodComercial>3</CodComercial>
+        <lineas>
+            <linea>
+
+                <Cantidad>17</Cantidad>
+
+                <Precio>500</Precio>
+
+                <Descuento>20</Descuento>
+
+                <PrecioTotal>6800</PrecioTotal>
+
+                <CodArticulo>5</CodArticulo>
+
+            </linea>
+        </lineas>
+
+    </albaran>
+
+    <albaran>
+
+        <NombreAlbaran>ALB/112</NombreAlbaran>
+
+        <FechaAlbaran>22/11/2018</FechaAlbaran>
+
+        <FechaEnvio>23/11/2018</FechaEnvio>
+
+        <FechaEntrega>29/11/2018</FechaEntrega>
+
+        <CodTransportista>5</CodTransportista>
+
+        <CodCliente>4</CodCliente>
+
+        <CodComercial>3</CodComercial>
+
+        <lineas>
+
+            <linea>
+                <Cantidad>50</Cantidad>
+
+                <Precio>350</Precio>
+
+                <Descuento>30</Descuento>
+
+                <PrecioTotal>12250</PrecioTotal>
+
+                <CodArticulo>2</CodArticulo>
+            </linea>
+
+            <linea>
+                <Cantidad>3</Cantidad>
+
+                <Precio>700</Precio>
+
+                <Descuento>0</Descuento>
+
+                <PrecioTotal>2100</PrecioTotal>
+
+                <CodArticulo>4</CodArticulo>
+
+            </linea>
+        </lineas>
+
+
+    </albaran>
+
+</datos>

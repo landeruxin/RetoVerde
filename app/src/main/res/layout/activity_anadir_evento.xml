@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.example.inicioreto.AnadirEventos"
+    android:background="#5100BCD4">
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtDescripcion"
+        android:text="Guardar" />
+
+    <Button
+        android:id="@+id/btnCancelar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtDescripcion"
+        android:layout_toRightOf="@+id/btnGuardar"
+        android:text="Cancelar"
+        android:layout_marginLeft="10dp"/>
+
+    <EditText
+        android:id="@+id/edtNombreEvento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imagen"
+        android:gravity="center_vertical"
+        android:hint="Ingrese nombre del evento" />
+
+    <EditText
+        android:id="@+id/edtUbicaciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtNombreEvento"
+        android:hint="Ingrese ubicación" />
+
+
+    <EditText
+        android:id="@+id/edtFechaDesde"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtDesde"
+        android:clickable="true"
+        android:focusable="false"
+        android:hint="Ingrese fecha inicial"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/edtHoraInicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtFechaDesde"
+        android:clickable="true"
+        android:focusable="false"
+        android:hint="Ingrese hora inicial"
+        android:inputType="time|number" />
+
+    <EditText
+        android:id="@+id/edtFechaHasta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtHasta"
+        android:clickable="true"
+        android:focusable="false"
+        android:hint="Ingrese fecha final"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/edtHoraHasta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtFechaHasta"
+        android:clickable="true"
+        android:focusable="false"
+        android:hint="Ingrese hora final"
+        android:inputType="time|number" />
+
+    <EditText
+        android:id="@+id/edtDescripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtHoraHasta"
+        android:hint="Ingrese descripción del evento" />
+
+    <ImageView
+        android:id="@+id/imagen"
+        android:layout_width="141dp"
+        android:layout_height="106dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/txtDesde"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtUbicaciones"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="8dp"
+        android:text="Desde:"
+        android:textColor="#0a0a05" />
+
+    <TextView
+        android:id="@+id/txtHasta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtHoraInicio"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="8dp"
+        android:text="Hasta:"
+        android:textColor="#0a0a05" />
+
+
+</RelativeLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<LuisRetoBBDDDataSet xmlns="http://tempuri.org/LuisRetoBBDDDataSet.xsd">
+  <ARTICULO>
+    <CodArticulo>1</CodArticulo>
+    <Descripcion>BMW e30</Descripcion>
+    <PrecioVenta>600</PrecioVenta>
+    <PrecioCosto>250</PrecioCosto>
+    <Stock>37</Stock>
+    <StockMax>100</StockMax>
+    <StockMin>20</StockMin>
+    <CodCategoria>1</CodCategoria>
+  </ARTICULO>
+  <ARTICULO>
+    <CodArticulo>2</CodArticulo>
+    <Descripcion>BMW e36</Descripcion>
+    <PrecioVenta>650</PrecioVenta>
+    <PrecioCosto>250</PrecioCosto>
+    <Stock>12</Stock>
+    <StockMax>50</StockMax>
+    <StockMin>10</StockMin>
+    <CodCategoria>1</CodCategoria>
+  </ARTICULO>
+  <ARTICULO>
+    <CodArticulo>3</CodArticulo>
+    <Descripcion>Ferrari TestaRossa</Descripcion>
+    <PrecioVenta>1000</PrecioVenta>
+    <PrecioCosto>500</PrecioCosto>
+    <Stock>5</Stock>
+    <StockMax>15</StockMax>
+    <StockMin>2</StockMin>
+    <CodCategoria>2</CodCategoria>
+  </ARTICULO>
+  <ARTICULO>
+    <CodArticulo>4</CodArticulo>
+    <Descripcion>Ferrari Spider</Descripcion>
+    <PrecioVenta>2500</PrecioVenta>
+    <PrecioCosto>1000</PrecioCosto>
+    <Stock>2</Stock>
+    <StockMax>2</StockMax>
+    <StockMin>1</StockMin>
+    <CodCategoria>2</CodCategoria>
+  </ARTICULO>
+  <ARTICULO>
+    <CodArticulo>5</CodArticulo>
+    <Descripcion>Audi A4</Descripcion>
+    <PrecioVenta>150</PrecioVenta>
+    <PrecioCosto>75</PrecioCosto>
+    <Stock>200</Stock>
+    <StockMax>300</StockMax>
+    <StockMin>100</StockMin>
+    <CodCategoria>4</CodCategoria>
+  </ARTICULO>
+  <ARTICULO>
+    <CodArticulo>6</CodArticulo>
+    <Descripcion>Ford Focus RS</Descripcion>
+    <PrecioVenta>200</PrecioVenta>
+    <PrecioCosto>100</PrecioCosto>
+    <Stock>100</Stock>
+    <StockMax>150</StockMax>
+    <StockMin>50</StockMin>
+    <CodCategoria>8</CodCategoria>
+  </ARTICULO>
+  <ARTICULO>
+    <CodArticulo>7</CodArticulo>
+    <Descripcion>Ford R8</Descripcion>
+    <PrecioVenta>175</PrecioVenta>
+    <PrecioCosto>85</PrecioCosto>
+    <Stock>38</Stock>
+    <StockMax>60</StockMax>
+    <StockMin>25</StockMin>
+    <CodCategoria>8</CodCategoria>
+  </ARTICULO>
+  <ARTICULO>
+    <CodArticulo>9</CodArticulo>
+    <Descripcion>Dacia Logan</Descripcion>
+    <PrecioVenta>100</PrecioVenta>
+    <PrecioCosto>35</PrecioCosto>
+    <Stock>102</Stock>
+    <StockMax>185</StockMax>
+    <StockMin>60</StockMin>
+    <CodCategoria>13</CodCategoria>
+  </ARTICULO>
+</LuisRetoBBDDDataSet>

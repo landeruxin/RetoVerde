@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LuisRetoBBDDDataSet xmlns="http://tempuri.org/LuisRetoBBDDDataSet.xsd">
+<FOTOS>
+<CodFoto>1</CodFoto>
+<Foto>BMWe30Culo.jpg</Foto>
+<CodArticulo>1</CodArticulo>
+</FOTOS>
+<FOTOS>
+<CodFoto>2</CodFoto>
+<Foto>BMWe30Morro.jpg</Foto>
+<CodArticulo>1</CodArticulo>
+</FOTOS>
+<FOTOS>
+<CodFoto>3</CodFoto>
+<Foto>BMWe36.jpg</Foto>
+<CodArticulo>2</CodArticulo>
+</FOTOS>
+<FOTOS>
+<CodFoto>4</CodFoto>
+<Foto>FerrariTestaRossaCulo.jpg</Foto>
+<CodArticulo>3</CodArticulo>
+</FOTOS>
+<FOTOS>
+<CodFoto>5</CodFoto>
+<Foto>FerrariTestaRossaMorro.jpg</Foto>
+<CodArticulo>3</CodArticulo>
+</FOTOS>
+<FOTOS>
+<CodFoto>6</CodFoto>
+<Foto>FerrariTestaRossaCostado.jpg</Foto>
+<CodArticulo>3</CodArticulo>
+</FOTOS>
+</LuisRetoBBDDDataSet>

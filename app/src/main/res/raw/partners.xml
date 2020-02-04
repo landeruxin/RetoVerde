@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<LuisRetoBBDDDataSet xmlns="http://tempuri.org/LuisRetoBBDDDataSet.xsd">
+  <CLIENTES>
+    <CodCliente>1</CodCliente>
+    <Nombre>Unax</Nombre>
+    <Apellidos>Arretxe Guevara</Apellidos>
+    <Empresa>BMW Igara</Empresa>
+    <DireccionEntrega>Alcala, 30</DireccionEntrega>
+    <DireccionFactura>Alcala, 30</DireccionFactura>
+    <Poblacion>Igara</Poblacion>
+    <Telefono>628115265</Telefono>
+    <IDComercial>2</IDComercial>
+  </CLIENTES>
+  <CLIENTES>
+    <CodCliente>2</CodCliente>
+    <Nombre>Luis</Nombre>
+    <Apellidos>Garcia Gonzalez</Apellidos>
+    <Empresa>Ferrari Lasarte</Empresa>
+    <DireccionEntrega>Calle Lasarte, 31 Bajo A</DireccionEntrega>
+    <DireccionFactura>Calle Lasarte, 31 Bajo A</DireccionFactura>
+    <Poblacion>Lasarte</Poblacion>
+    <Telefono>614523698</Telefono>
+    <IDComercial>1</IDComercial>
+  </CLIENTES>
+  <CLIENTES>
+    <CodCliente>3</CodCliente>
+    <Nombre>Iñaki</Nombre>
+    <Apellidos>Alzaga Tranquilo</Apellidos>
+    <Empresa> Wolkswagen Astigarraga</Empresa>
+    <DireccionEntrega>Apeztegi Plaza</DireccionEntrega>
+    <DireccionFactura>Apeztegi Plaza</DireccionFactura>
+    <Poblacion>Astigarraga</Poblacion>
+    <Telefono>654987321</Telefono>
+    <IDComercial>1</IDComercial>
+  </CLIENTES>
+  <CLIENTES>
+    <CodCliente>4</CodCliente>
+    <Nombre>Diego</Nombre>
+    <Apellidos>Sanches Wason</Apellidos>
+    <Empresa>Audi San Sebastian</Empresa>
+    <DireccionEntrega>La Bretxa</DireccionEntrega>
+    <DireccionFactura>La Bretxa</DireccionFactura>
+    <Poblacion>San Sebastián</Poblacion>
+    <Telefono>615355961</Telefono>
+    <IDComercial>3</IDComercial>
+  </CLIENTES>
+  <CLIENTES>
+    <CodCliente>5</CodCliente>
+    <Nombre>Imanol</Nombre>
+    <Apellidos>Arias Ortiz</Apellidos>
+    <Empresa>Renault Oiartzun</Empresa>
+    <DireccionEntrega>Poligono Industrial Lanbarren, 44</DireccionEntrega>
+    <DireccionFactura>Poligono Industrial Lanbarren, 43</DireccionFactura>
+    <Poblacion>Oiartzun</Poblacion>
+    <Telefono>615253625</Telefono>
+    <IDComercial>1</IDComercial>
+  </CLIENTES>
+  <CLIENTES>
+    <CodCliente>6</CodCliente>
+    <Nombre>Alex</Nombre>
+    <Apellidos>Hubago Fernandez</Apellidos>
+    <Empresa>Citroen Zarautz</Empresa>
+    <DireccionEntrega>Araba Kalea, 43 Bajo</DireccionEntrega>
+    <DireccionFactura>Araba Kalea, 43 Alto</DireccionFactura>
+    <Poblacion>Zarautz</Poblacion>
+    <Telefono>612536942</Telefono>
+    <IDComercial>4</IDComercial>
+  </CLIENTES>
+  <CLIENTES>
+    <CodCliente>7</CodCliente>
+    <Nombre>Jorge</Nombre>
+    <Apellidos>Sanchez Lopez</Apellidos>
+    <Empresa>Renault Altuna</Empresa>
+    <DireccionEntrega>San Prudentzio Kalea, 7</DireccionEntrega>
+    <DireccionFactura>San Prudentzio Kalea, 7</DireccionFactura>
+    <Poblacion>Legazpi</Poblacion>
+    <Telefono>614525363</Telefono>
+    <IDComercial>4</IDComercial>
+  </CLIENTES>
+  <CLIENTES>
+    <CodCliente>8</CodCliente>
+    <Nombre>Maria</Nombre>
+    <Apellidos>Ferra Adria</Apellidos>
+    <Empresa>Peugeut Riberas</Empresa>
+    <DireccionEntrega>Riberas de Loiola 13</DireccionEntrega>
+    <DireccionFactura>Riberas de Loiola 13</DireccionFactura>
+    <Poblacion>San Sebastián</Poblacion>
+    <Telefono>752234521</Telefono>
+    <IDComercial>1</IDComercial>
+  </CLIENTES>
+</LuisRetoBBDDDataSet>

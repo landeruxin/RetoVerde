@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.inicioreto">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icono"
+        android:label="Airtruk"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".CrearUsuario"></activity>
+        <activity android:name=".VerEventosTotales" />
+        <activity android:name=".Menu" />
+        <activity android:name=".VisualizarPedidos" />
+        <activity android:name=".Pedido" />
+        <activity android:name=".PrincipalPedido" />
+        <activity android:name=".AnadirEventos" />
+        <activity android:name=".PrincipalPartner" />
+        <activity android:name=".VerEventos" />
+        <activity android:name=".VisualizarPartners" />
+        <activity android:name=".Detalles_cliente" />
+        <activity android:name=".Informacion" />
+        <activity android:name=".PrincipalCalendario" />
+        <activity android:name=".AgregarCliente" />
+        <activity android:name=".Adaptador" />
+
+        <activity android:name=".AdaptadorArticulo" />
+        <activity android:name=".BDSQLiteArticulos" />
+        <activity android:name=".BDSQLiteEventos" />
+        <activity android:name=".BDSQLiteLinea" />
+        <activity android:name=".BDSQLitePartners" />
+        <activity android:name=".BDSQLiteUsuarios" />
+        <activity android:name=".Catalogo" />
+        <activity android:name=".Comercial" />
+        <activity android:name=".Linea" />
+        <activity android:name=".VisualizarCreados" />
+
+
+
+
+        <activity android:name=".Albaran" />
+        <activity android:name=".Articulo" />
+
+
+
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <activity
+            android:name=".MapaEmpresa"
+            android:label="@string/title_activity_mapa_empresa" />
+        <activity android:name=".Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+    </application>
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+</manifest>
